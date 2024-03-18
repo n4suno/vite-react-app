@@ -23,8 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# JS files
-package-lock.json
 
 # test result directories
 __snapshots__/
